@@ -9,3 +9,8 @@ This project was completed mainly for my own education. Some key takeaways:
 2. Learned how to load raw data and manipulate it 
 3. Created classification models on EEG data 
 4. Understood the importance of power spectral density plots
+
+
+References:
+1. Neurotechx neurotechx.github.io/eeg-notebooks
+2. Data Analysis Lecturelets by Mike X Cohen https://mikexcohen.com/lectures.html
